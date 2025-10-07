@@ -47,11 +47,11 @@ const get_started = [
 
     links: [
       {
-        href: "/register",
+        href: "https://app.weplugmusic.com/register",
         title: "Sign Up",
       },
       {
-        href: "/login",
+        href: "https://app.weplugmusic.com/login",
         title: "Login",
       },
       {

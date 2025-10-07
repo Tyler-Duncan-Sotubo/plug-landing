@@ -61,8 +61,8 @@ export const mobileNavData = [
 ];
 
 export const mobileLoginNavData = [
-  { name: "Login", href: "/login" },
-  { name: "Sign Up", href: "/register" },
+  { name: "Login", href: "https://app.weplugmusic.com/login" },
+  { name: "Sign Up", href: "https://app.weplugmusic.com/register" },
 ];
 
 export const dashboardNav = [

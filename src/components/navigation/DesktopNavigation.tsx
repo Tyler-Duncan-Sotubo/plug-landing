@@ -36,10 +36,10 @@ export const DesktopNavigation = () => {
       <div className="relative flex items-center gap-5">
         <div className="">
           <>
-            <Link href="/login">
+            <Link href="https://app.weplugmusic.com/login">
               <Button variant="outline">Login</Button>
             </Link>
-            <Link href="/register" className="ml-4">
+            <Link href="https://app.weplugmusic.com/register" className="ml-4">
               <Button>Sign Up</Button>
             </Link>
           </>
